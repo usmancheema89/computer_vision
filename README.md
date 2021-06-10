@@ -2,9 +2,9 @@
 
 Hello,
 
-This is Young from LuxPM. You have applied for the position of frontend developer. Thank you for your interest in working with us.
+This is Young from LuxPM. You have applied for the position of AI engineer. Thank you for your interest in working with us.
 
-We have reviewed your application and decided to proceed with the next step which is a coding test. Please follow the guideline for the test. Please note that you can use either one of React Native, Java, Kotlin, Swift, React JS
+We have reviewed your application and decided to proceed with the next step which is a coding test. Please follow the guideline for the test. 
 
 1. Transform the image in the +x direction by 25%, and create an image
 2. Transform the image in the +y direction by 25%, and create an image
